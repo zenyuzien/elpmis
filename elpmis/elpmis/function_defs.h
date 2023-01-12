@@ -216,7 +216,7 @@ void search_engine_display()
     // many of these type of functions will include a lot of design intended lines of code
     // many non functional printf statements to look good for the user on terminal
     system("cls");
-	system("color 28");//FC white bg red font
+	system("color FC");//FC white bg red font
 	printf(" zenyuzien     x\\ +\n");
 	printf("----------------------------------------------------------------------------------------------------------------------\n");
 	printf("<--  -->    http://www.zenyuzien.com\n");
